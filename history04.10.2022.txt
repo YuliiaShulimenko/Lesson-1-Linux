@@ -1,0 +1,19 @@
+   0 date > /tmp/file.txt
+   1 tree /tmp
+   2 echo "Star" >> /tmp/file.txt 
+   3 cat /tmp/file.txt 
+   4 mkdir /opt/task
+   5 touch /opt/task/start.txt
+   6 opt /tree
+   7 tree /opt/
+   8 cp ~ /tmp/file.txt ~ /opt/task/start.txt 
+   9 cp /tmp/file.txt /opt/task/start.txt 
+  10 cat /opt/task/start.txt 
+  11 cd /ls
+  12 ls /
+  13 ls -f /etc | tail -4 >> /opt/task/start.txt 
+  14 ls -l
+  15 ls -f
+  16 cat /opt/task/start.txt 
+  17 history
+  18 history > /tmp/history.txt
