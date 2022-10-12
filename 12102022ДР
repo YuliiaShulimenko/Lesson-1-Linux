@@ -1,0 +1,14 @@
+  cd /
+  cd tmp
+  vi file.txt
+  ps -ef | head -3 >> file.txt
+  history
+  ls
+  chmod g+w feli.txt
+  chmod g+w file.txt
+  ls -l
+  chmod u-r file.txt
+  chmod o+x
+  chmod o+x file.txt
+  history
+  history > historyChmod.txt
